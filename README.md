@@ -16,7 +16,7 @@ Siga em frente em cada etapa e, caso se sinta à vontade, me ajude a desenvolver
 
 ##### Você está aqui pelo resultado final?
 
-Vá direto à conclusão final para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. xxxxxxxxxxxxxxxxxxxxx
+Vá direto à conclusão final para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Projeto%20Churn.pdf
 
 ## Índice
 
@@ -61,3 +61,5 @@ Avaliação do desempenho do modelo utilizando métricas como acurácia, precis�
 ## Conclusões Finais
 
 Com a implementação das estratégias de retenção baseadas em Machine Learning e a personalização de ofertas e comunicações, conseguimos identificar e atuar proativamente sobre clientes em risco de churn. A automação e a análise contínua de dados não só irão aumentaram a eficiência operacional, como também irão melhorar a precisão das nossas previsões, garantindo uma experiência superior para nossos clientes. O ideal é continuar aprimorando as abordagens para manter e fortalecer a lealdade dos nossos clientes.
+
+Veja a apresentação com todos os detalhes no link: https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Projeto%20Churn.pdf
