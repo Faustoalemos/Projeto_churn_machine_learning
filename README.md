@@ -16,30 +16,37 @@ Siga em frente em cada etapa e, caso se sinta à vontade, me ajude a desenvolver
 
 ##### Você está aqui pelo resultado final?
 
-Vá direto à [Conclusão Final](#conclusão-final) para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. xxxxxxxxxxxxxxxxxxxxx
+Vá direto à [Conclusão Final](#Conclusões-Finais) para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. xxxxxxxxxxxxxxxxxxxxx
 
 ## Índice
 
-1. [Instalação e Importação das Bibliotecas](src/importacao_bibliotecas.py)
+1. Instalação e Importação das Bibliotecas
+2. Importação dos Dados
+3. Exploração do Dataset
+4. Limpeza dos Dados
+5. Tratamento e Pré-Processamento de Dados
+6. Criação dos Modelos Preditivos ou Classificação
+7. Avaliando o Desempenho do Modelo
+8. Conclusões Finais
 
-Documentação das bibliotecas utilizadas:
-- [Pandas](https://pandas.pydata.org/docs/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [Scikit-learn](https://scikit-learn.org/stable/documentation.html)
-- [Numpy](https://numpy.org/doc/)
-- [Matplotlib](https://matplotlib.org/stable/index.html)
+## Acesse o Código do Projeto
 
-2. [Importação dos Dados](src/importacao_dados.py)
+Para acessar o código do projeto completo, clique [aqui](src).
 
-3. [Exploração do Dataset](src/exploracao_dataset.py)
+## Instalação e Importação das Bibliotecas
+
+## Importação dos Dados
+
+## Exploração do Dataset
+
 Visualizando apenas alguns detalhes, pois a análise exploratória e outras etapas do projeto foram executadas em Excel e já estão na apresentação do projeto no link: xxxxxxxxxxxxxxxxxxxxxxxxxx 
 
-4. [Limpeza dos Dados](src/limpeza_dados.py)
+## Limpeza dos Dados
 
-5. [Tratamento e Pré-Processamento de Dados](src/pre_processamento_dados.py)
+## Tratamento e Pré-Processamento de Dados
 
-6. [Criação dos Modelos Preditivos ou Classificação](src/criacao_modelos.py)
+## Criação dos Modelos Preditivos ou Classificação
 
-7. [Avaliando o Desempenho do Modelo](src/avaliacao_modelo.py)
+## Avaliando o Desempenho do Modelo
 
-8. [Conclusões Finais](conclusoes_finais.py)
+## Conclusões Finais
