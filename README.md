@@ -16,7 +16,7 @@ Siga em frente em cada etapa e, caso se sinta à vontade, me ajude a desenvolver
 
 ##### Você está aqui pelo resultado final?
 
-Vá direto à [Conclusão Final](#Conclusões-Finais) para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. xxxxxxxxxxxxxxxxxxxxx
+Vá direto à [Conclusão Final]. para entender o resultado final do tratamento e exploração dos dados, ou acesse o link da apresentação do projeto. xxxxxxxxxxxxxxxxxxxxx
 
 ## Índice
 
@@ -31,7 +31,7 @@ Vá direto à [Conclusão Final](#Conclusões-Finais) para entender o resultado 
 
 ## Acesse o Código do Projeto
 
-Para acessar o código do projeto completo, clique [aqui](src).
+Para acessar o código do projeto completo, clique [aqui](https://github.com/Faustoalemos/Projeto_churn_machine_learning/tree/main/src).
 
 ## Instalação e Importação das Bibliotecas
 
