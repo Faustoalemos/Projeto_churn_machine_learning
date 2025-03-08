@@ -32,7 +32,7 @@ Vá direto à conclusão final para entender o resultado final do tratamento e e
 
 ## Acesse o Código do Projeto
 
-Para acessar o código do projeto completo, clique [aqui](https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Machine%20Learning%20-%20Churn%20de%20aplicativo%20-%20Random%20Forest.v4.ipynb).
+Para acessar o código do projeto completo, clique [aqui](https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Machine%20Learning%20-%20Python/Machine%20Learning%20-%20Churn%20de%20aplicativo%20-%20Random%20Forest.v4.ipynb).
 
 ## Instalação e Importação das Bibliotecas
 
