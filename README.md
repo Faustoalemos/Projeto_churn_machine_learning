@@ -12,7 +12,7 @@ O dataset foi disponibilizado pela escola preditiva para projetos práticos de a
 
 ##### Você está aqui pelo processo completo e as linhas de código?
 
-Siga em frente em cada etapa e, caso se sinta à vontade, me ajude a desenvolver ainda mais minha visão sobre análise exploratória de dados e machine learning, clique [aqui](https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Machine%20Learning%20-%20Churn%20de%20aplicativo%20-%20Random%20Forest.v4.ipynb). 
+Siga em frente em cada etapa e, caso se sinta à vontade, me ajude a desenvolver ainda mais minha visão sobre análise exploratória de dados e machine learning, clique [aqui](https://github.com/Faustoalemos/Projeto_churn_machine_learning/blob/main/Machine%20Learning%20-%20Python/Machine%20Learning%20-%20Churn%20de%20aplicativo%20-%20Random%20Forest.v4.ipynb). 
 
 ##### Você está aqui pelo resultado final?
 
